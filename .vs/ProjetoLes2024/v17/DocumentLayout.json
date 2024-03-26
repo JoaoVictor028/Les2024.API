@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|c:\\users\\joao.victor\\source\\repos\\projetoles2024\\projetoles2024\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|solutionrelative:projetoles2024\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|c:\\users\\joao.victor\\source\\repos\\projetoles2024\\projetoles2024\\data\\dto\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|solutionrelative:projetoles2024\\data\\dto\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|c:\\users\\joao.victor\\source\\repos\\projetoles2024\\projetoles2024\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|solutionrelative:projetoles2024\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|c:\\users\\joao.victor\\source\\repos\\projetoles2024\\projetoles2024\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0233D5-A0F6-49B4-B047-B610FA03580F}|ProjetoLes2024\\ProjetoLes2024.csproj|solutionrelative:projetoles2024\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "ProjetoLes2024\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Models\\Endereco.cs",
+              "RelativeToolTip": "ProjetoLes2024\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:36:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Data\\DTO\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "ProjetoLes2024\\Data\\DTO\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Data\\DTO\\EnderecoDTO.cs",
+              "RelativeToolTip": "ProjetoLes2024\\Data\\DTO\\EnderecoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:35:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoLes2024\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Models\\Cliente.cs",
+              "RelativeToolTip": "ProjetoLes2024\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:13:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ProjetoLes2024\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\joao.victor\\source\\repos\\ProjetoLes2024\\ProjetoLes2024\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ProjetoLes2024\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:09:03.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

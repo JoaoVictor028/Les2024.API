@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "ProjetoLes2024.Controllers.ClienteController",
+    "Method": "Inserir",
+    "RelativePath": "api/Cliente/Inserir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteDTO",
+        "Type": "ProjetoLes2024.Data.DTO.ClienteCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 201
+      }
+    ]
+  }
+]
